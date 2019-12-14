@@ -1,0 +1,8 @@
+.round {
+    width:10px;
+    height:10px;
+    border: 2px solid blue;
+    border-radius: 50%;
+    overflow: hidden;
+    background: blue;
+}
